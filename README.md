@@ -1,6 +1,10 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanneAEL&layout=compact)](https://github.com/sanneAEL/github-readme-stats)
+
 
 [![sanneAEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanneAEL)](https://github.com/sanneAEL/github-readme-stats)
+
+
 
 <!--
 **sanneAEL/sanneAEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
